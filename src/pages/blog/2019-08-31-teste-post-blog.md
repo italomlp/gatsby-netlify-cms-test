@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: Teste Post blog
-date: 2019-08-31T16:16:07.764Z
+date: 2019-08-31T16:21:07.764Z
 description: Desciçao do post de teste do blog
 featuredpost: false
 featuredimage: /img/blurred-background-coffee-cup-contemporary-908284.jpg
